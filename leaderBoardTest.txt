@@ -1,0 +1,1 @@
+0 A 1 10 false 0 B 2 10 false 0 C 3 10 false 0 D 4 10 false 0 E 5 10 false 0 A 1 20 false 0 B 2 20 false 0 C 3 20 false 0 D 4 20 false 0 E 5 20 false 0 A 1 15 true 0 B 2 15 true 0 C 3 15 true 0 D 4 15 true 0 E 5 15 true 0 A 1 10 true 0 B 2 10 true 0 C 3 10 true 0 D 4 10 true 0 E 5 10 true 
